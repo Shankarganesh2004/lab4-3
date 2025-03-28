@@ -1,4 +1,8 @@
 hi
 this
 is
+<<<<<<< HEAD
 file33
+=======
+file3
+>>>>>>> fb
